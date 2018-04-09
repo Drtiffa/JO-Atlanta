@@ -3,13 +3,19 @@ body {
     padding: 0;
     font-family: 'IBM Plex Serif', serif;
 }
+/* JULIAN */
+/* NAVBAR */
+nav{
+  width: 100%;
+}
 
 nav ul {
     margin: 25PX 13PX;
-    margin-left: 5%;
-    margin-right: 7%;
-    padding: 0; 
+    margin-left: 11%;  /* 5% modif Nicky -> 12% */
+    margin-right: 12%; /* 7% modif Nicky -> 12% */
+    padding: 0;
     display: flex;
+
 }
 
 nav ul li {
@@ -35,11 +41,14 @@ nav ul li a:hover {
     color: #004b41;
 }
 
+/* TIFFANY */
 /*SLIDER*/
 .mySlides {
     display:none;
     height: 100vh;
-    margin: 20px;
+    /* margin: 20px; = Tiffany */
+    margin-left: 8%; /* modif Nicky */
+    margin-right: 10%; /* modif Nicky */
     margin-top: -100px;
 }
 
