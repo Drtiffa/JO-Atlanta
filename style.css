@@ -417,3 +417,29 @@ span {
   padding: 10px 30px;
 
 }
+
+/*partie Hajar*/
+footer {
+    border: ;
+    width: ;
+    height: 200px;
+    
+}
+
+.picture {
+    height: 100px;
+    width: 130px;
+}
+
+.all-txt {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'IBM Plex Serif', serif;
+    color: #004b41;
+}
+
+.binome a {
+  text-decoration: none; 
+  color: #004b41;
+}
