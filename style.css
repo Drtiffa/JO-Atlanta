@@ -423,7 +423,8 @@ footer {
     border: ;
     width: ;
     height: 200px;
-    
+    margin-top: 5%;
+
 }
 
 .picture {
@@ -440,6 +441,6 @@ footer {
 }
 
 .binome a {
-  text-decoration: none; 
+  text-decoration: none;
   color: #004b41;
 }
