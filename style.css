@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -78,4 +83,61 @@ span {
     background-color:;
     border-radius: 5px;
     padding: 40px 40px;
+}
+
+/* Mike */
+
+.h3 {
+  font-family: 'IBM Plex Serif', serif;
+  color: rgba(255,255,255,.4);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.h1 {
+  font-family: 'IBM Plex Serif', serif;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+}
+
+.fond {
+  background-color: #b36154;
+  height: 25vh;
+}
+
+.flexbox-container {
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.flexbox-container > div {
+	width: 50%;
+	padding: 44px;
+}
+
+.flexbox-container > div:first-child {
+	margin-right: 20px;
+}
+
+.flexbox-container > div:last-child {
+	margin-right: 20px;
+}
+
+.para {
+  font-family: 'IBM Plex Serif', serif;
+  color: #050606;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.para1 {
+  font-family: 'IBM Plex Serif', serif;
+  color: #050606;
+  text-align: justify;
 }
